@@ -171,7 +171,7 @@ function displayPosts() {
 ---
 
 ## Screenshots
-Landing Page: [image](https://github.com/user-attachments/assets/95f59563-4cfa-445e-8aed-c2f01e00c474) ![image](https://github.com/user-attachments/assets/ce06f2fb-dd1c-421d-8cfc-e433f6b1ad59)
+Landing Page: ![image](https://github.com/user-attachments/assets/95f59563-4cfa-445e-8aed-c2f01e00c474) ![image](https://github.com/user-attachments/assets/ce06f2fb-dd1c-421d-8cfc-e433f6b1ad59)
 
 Feed Page: ![image](https://github.com/user-attachments/assets/8dd2e846-5a58-4170-bffd-75c346a55701)
 
