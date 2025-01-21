@@ -1,0 +1,88 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* searched for this */
+.content {
+  flex-grow: 1;
+}
+
+.or-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.or-container hr {
+  /* searched for this */
+  flex-grow: 1;
+}
+
+.or-container p {
+  margin: 0 10px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.link-f {
+  color: gray;
+  text-decoration: none;
+}
+
+.link-f:hover {
+  text-decoration: underline;
+}
+
+@media (min-width: 992px) {
+  .icon {
+    font-size: 320px;
+  }
+}
+
+@media (max-width: 991px) {
+  .icon {
+    font-size: 40px;
+  }
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+  text-align: left;
+}
+
+.e-none,
+.p-none,
+.userName-none,
+.signUp-e-none,
+.signUp-p-none {
+  display: none;
+}
+
+.bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.postIcon:hover {
+  color: gray;
+}
+
+.search {
+  color: white;
+}
+
+.search::placeholder {
+  color: white;
+}
